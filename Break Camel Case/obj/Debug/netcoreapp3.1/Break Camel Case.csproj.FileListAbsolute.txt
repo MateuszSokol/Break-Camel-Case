@@ -1,0 +1,14 @@
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.csproj.AssemblyReference.cache
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.AssemblyInfoInputs.cache
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.AssemblyInfo.cs
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.csproj.CoreCompileInputs.cache
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\bin\Debug\netcoreapp3.1\Break Camel Case.exe
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\bin\Debug\netcoreapp3.1\Break Camel Case.deps.json
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\bin\Debug\netcoreapp3.1\Break Camel Case.runtimeconfig.json
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\bin\Debug\netcoreapp3.1\Break Camel Case.runtimeconfig.dev.json
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\bin\Debug\netcoreapp3.1\Break Camel Case.dll
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\bin\Debug\netcoreapp3.1\Break Camel Case.pdb
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.dll
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.pdb
+C:\Users\matib\source\repos\Break Camel Case\Break Camel Case\obj\Debug\netcoreapp3.1\Break Camel Case.genruntimeconfig.cache
